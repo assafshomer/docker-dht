@@ -1,1 +1,1 @@
-build_docker_dht: docker build -t=docker-dht
+build_docker_dht: docker build -t=assafshomer/docker-dht 
